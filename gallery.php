@@ -23,60 +23,60 @@
           <!-- first line of photos-->
              <div class="row gallery">
                <div class="col s12 m4 l3">
-                <div class="material-placeholder"><img src="images/mueble-cocina1.jpg" alt="" class="responsive-img materialboxed"></div>
-              <!--     <div class="material-placeholder"><img src="images/mueble-cocina1.jpg" alt="" class="responsive-img materialboxed" data-caption="here description of the image"></div>
+                <div class="material-placeholder"><img src="Images/mueble-cocina1.jpg" alt="" class="responsive-img materialboxed"></div>
+              <!--     <div class="material-placeholder"><img src="Images/mueble-cocina1.jpg" alt="" class="responsive-img materialboxed" data-caption="here description of the image"></div>
                 --> 
                </div>
 
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="images/mueble-cocina2.jpg" alt="" class="responsive-img materialboxed"></div>
+                    <div class="material-placeholder"><img src="Images/mueble-cocina2.jpg" alt="" class="responsive-img materialboxed"></div>
                </div>
 
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="images/mueble-cocina3.jpg" alt="" class="responsive-img materialboxed"></div>
+                    <div class="material-placeholder"><img src="Images/mueble-cocina3.jpg" alt="" class="responsive-img materialboxed"></div>
                </div>
    
 
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="images/mueble-cocina4.jpg" alt="" class="responsive-img materialboxed"></div>
+                    <div class="material-placeholder"><img src="Images/mueble-cocina4.jpg" alt="" class="responsive-img materialboxed"></div>
                </div>
                </div>
                 <!-- Second line of photos-->
                <div class="row gallery">
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina5.jpg" alt="" class="responsive-img materialboxed"></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina5.jpg" alt="" class="responsive-img materialboxed"></div>
                     </div>
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina6.jpg" alt="" class="responsive-img materialboxed"></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina6.jpg" alt="" class="responsive-img materialboxed"></div>
                     </div>
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina7.jpg" alt="" class="responsive-img materialboxed"></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina7.jpg" alt="" class="responsive-img materialboxed"></div>
                     </div>
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina8.jpg" alt="" class="responsive-img materialboxed" ></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina8.jpg" alt="" class="responsive-img materialboxed" ></div>
                     </div>
                  </DIV>
                     <!-- third line of photos-->
                <div class="row gallery">
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina9.jpg" alt="" class="responsive-img materialboxed" ></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina9.jpg" alt="" class="responsive-img materialboxed" ></div>
                     </div>
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina10.jpg" alt="" class="responsive-img materialboxed" ></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina10.jpg" alt="" class="responsive-img materialboxed" ></div>
                     </div>
 
                     <div class="col s12 m4 l3">
-                        <div class="material-placeholder"><img src="images/mueble-cocina11.jpg" alt="" class="responsive-img materialboxed" ></div>
+                        <div class="material-placeholder"><img src="Images/mueble-cocina11.jpg" alt="" class="responsive-img materialboxed" ></div>
                     </div>
                    
                     <div  class="col s12 m4 l3">
-                        <div class="material-placeholder" ><img src="images/mueble-cocina12.jpg" alt="" class="responsive-img materialboxed" ></div>
+                        <div class="material-placeholder" ><img src="Images/mueble-cocina12.jpg" alt="" class="responsive-img materialboxed" ></div>
                     </div>
                  
                 </div>
