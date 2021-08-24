@@ -10,7 +10,7 @@
             
         </nav>
         <div class="footer_logo">
-             <a class="imagen_click" href="#"><img src="images/social-media.png"></a>
+             <a class="imagen_click" href="#"><img src="Images/social-media.PNG"></a>
            <!-- <img src="images/logo.png" alt="Kitchens" >-->
         </div>
     </div>
