@@ -11,7 +11,7 @@
     <div class="logo-principal">
       
          <div class="tag">
-				<a href="index.html"><img src="images/social-media.png" alt ="Main Page" title="Main Page"/></a>
+				<a href="index.html"><img src="Images/social-media.PNG" alt ="Main Page" title="Main Page"/></a>
 	     </div>
     </div>
   
